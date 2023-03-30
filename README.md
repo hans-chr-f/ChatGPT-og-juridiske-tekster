@@ -1,4 +1,4 @@
-# ChatGPT -- et førsteinntrykk
+# ChatGPT – et førsteinntrykk
 Dette er en side for supplerende material til artikkelen *ChatGPT. Et førsteinntrykk*, trykt i [Lov og Rett nr.~X, 2023][1]
 
 ## Common Crawl
