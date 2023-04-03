@@ -66,3 +66,14 @@ Tre av de videre alternativene fortsetter med "skal tolkes". La oss legge til de
 | objektivt,           |         0.05469 |
 | på en objekt         |         0.00253 |
 | i henhold til den av |         0.00036 |
+
+
+La oss generere enn lengre fortsettelse. Vi setter max_tokens = 40.
+
+| Fortsettelse                                                                                                  |   Sannsynlighet |
+|---------------------------------------------------------------------------------------------------------------|-----------------|
+| at avtalene skal tolkes i samsvar med deres ordlyd og den hensikt som partene hadde da de inngikk avtalen.    |         0.00000 |
+| kontraktsfrihet. Dette innebærer at partene i en avtale har frihet til å avtale vilkår som de finner hens     |         0.00000 |
+| at partene har frihet til å inngå avtaler som de ønsker. Dette betyr at partene kan inngå avtaler om hva som  |         0.00000 |
+| at avtaler skal binde partene og at de skal overholde sine forpliktelser. Dette gjelder uansett om avtalen    |         0.00000 |
+| at avtaler skal oppfylles og at det skal legges til rette for at avtalen kan oppfylles, slik at parter som in |         0.00000 |
