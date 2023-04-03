@@ -1,4 +1,4 @@
-# Demonstrasjon av generering av tekst.
+# Modellbasert generering av tekst.
 
 ```
 import openai
