@@ -68,12 +68,18 @@ Tre av de videre alternativene fortsetter med "skal tolkes". La oss legge til de
 | i henhold til den av |         0.00036 |
 
 
-La oss generere enn lengre fortsettelse. Vi setter max_tokens = 40.
+La oss gi mer kontekst. Vi legger inn følgende tekst (her har vi økt max_tokens til 10 for å få hele sammenhengen):
 
-| Fortsettelse                                                                                                  |   Sannsynlighet |
-|---------------------------------------------------------------------------------------------------------------|-----------------|
-| at avtalene skal tolkes i samsvar med deres ordlyd og den hensikt som partene hadde da de inngikk avtalen.    |         0.00000 |
-| kontraktsfrihet. Dette innebærer at partene i en avtale har frihet til å avtale vilkår som de finner hens     |         0.00000 |
-| at partene har frihet til å inngå avtaler som de ønsker. Dette betyr at partene kan inngå avtaler om hva som  |         0.00000 |
-| at avtaler skal binde partene og at de skal overholde sine forpliktelser. Dette gjelder uansett om avtalen    |         0.00000 |
-| at avtaler skal oppfylles og at det skal legges til rette for at avtalen kan oppfylles, slik at parter som in |         0.00000 |
+```
+Peder og Marte er uenige om salget av en bil. Peder hadde lagt ut en Volvo til salgs. Marte var interessert i å kjøpe den. De har sendt mange SMSer til hverandre og har forhandlet om pris. Peder hadde først lagt ut bilen til kr 90000,–, men Marte prutet og bød til slutt kr 74 000,– for bilen i en SMS. Peder syntes prisen var for lav, men sendte etter tre dagers nøling et svar på SMS til Marte der det stod «OK. Det er greit! Du kan hente bilen i morgen.» Peder hørte ikke noe mer fra Marte og ringte for å spørre når hun henter bilen. Marte sier at hun ikke fikk noe svar fra Peder og at hun nå har kjøpt en annen bil. Peder sier at de har en avtale og at hun må stå ved den. Hovedprinsippet i norsk avtalerett er
+```
+Nå gir modellen følgende mulige fortsettelser:
+
+ | Fortsettelse                 |   Sannsynlighet |
+|------------------------------|-----------------|
+| at avtaler som er innga      |         0.01083 |
+| at avtaler som inngå        |         0.00957 |
+| at avtaler som er kommet til |         0.00844 |
+| at avtaler som er kommet til |         0.00842 |
+| at avtaler skal holdes. Det  |         0.00469 |
+
