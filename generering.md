@@ -70,12 +70,13 @@ Tre av de videre alternativene fortsetter med "skal tolkes". La oss legge til de
 
 La oss gi mer kontekst. Vi legger inn følgende tekst (her har vi økt max_tokens til 10 for å få hele sammenhengen):
 
-```
+<code>
 Peder og Marte er uenige om salget av en bil. Peder hadde lagt ut en Volvo til salgs. Marte var interessert i å kjøpe den. De har sendt mange SMSer til hverandre og har forhandlet om pris. Peder hadde først lagt ut bilen til kr 90000,–, men Marte prutet og bød til slutt kr 74 000,– for bilen i en SMS. Peder syntes prisen var for lav, men sendte etter tre dagers nøling et svar på SMS til Marte der det stod «OK. Det er greit! Du kan hente bilen i morgen.» Peder hørte ikke noe mer fra Marte og ringte for å spørre når hun henter bilen. Marte sier at hun ikke fikk noe svar fra Peder og at hun nå har kjøpt en annen bil. Peder sier at de har en avtale og at hun må stå ved den. Hovedprinsippet i norsk avtalerett er
-```
+</code>
+
 Nå gir modellen følgende mulige fortsettelser:
 
- | Fortsettelse                 |   Sannsynlighet |
+| Fortsettelse                 |   Sannsynlighet |
 |------------------------------|-----------------|
 | at avtaler som er innga      |         0.01083 |
 | at avtaler som inngå        |         0.00957 |
