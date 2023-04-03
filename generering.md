@@ -89,6 +89,6 @@ Hvis vi ber om bare ett svar, men øker lengden til 1000 tokens får vi følgnde
 
 <code>
 ...at man skal holde det man har avtalt.
-
-I dette tilfellet har Peder og Marte kommet til en avtale om salget av bilen. Dette er bekreftet av den avtalen som har blitt inngått gjennom SMSer. Derfor er det nødvendig at begge parter står ved denne avtalen. Det er viktig at man holder det man har avtalt, og at man ikke forsøker å gjøre endringer i avtalen uten å ha kommet til enighet med den andre parten. Hvis Marte ikke ønsker å stå ved avtalen, kan hun bli tvunget til å gjøre det av domstolene
+<p>
+I dette tilfellet har Peder og Marte kommet til en avtale om salget av bilen. Dette er bekreftet av den avtalen som har blitt inngått gjennom SMSer. Derfor er det nødvendig at begge parter står ved denne avtalen. Det er viktig at man holder det man har avtalt, og at man ikke forsøker å gjøre endringer i avtalen uten å ha kommet til enighet med den andre parten. Hvis Marte ikke ønsker å stå ved avtalen, kan hun bli tvunget til å gjøre det av domstolene.</p>
 </code>
