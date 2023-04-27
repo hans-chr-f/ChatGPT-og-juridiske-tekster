@@ -1,6 +1,6 @@
 # ChatGPT – og juridiske tekster
 
-Dette er en side for supplerende material til artikkelen *ChatGPT  Et førsteinntrykk*, trykt i [Lov og Rett nr. 5, 2023][1]
+Dette er en side for supplerende material til artikkelen *ChatGPT  Et førsteinntrykk*, trykt i [Lov og Rett nr. 5, 2023.][1]
 
 Følgende ressurser supplererer artikkelen:
 
