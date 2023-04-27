@@ -5,9 +5,9 @@ Dette er en side for supplerende material til artikkelen *ChatGPT og juridiske t
 Følgende ressurser supplererer artikkelen:
 
 1. Dokumentasjon av framgangsmåte for [generering av tekst](generering.md)
-2. Analyser av norske domener i Common Crawl.
-3. Analyser av norske domener i WebText
-4. Oversikt over norske kilder i gutenberg.org
+2. Analyser av norske domener i [Common Crawl](common_crawl.md)
+3. Analyser av norske domener i [WebText](webtext.md)
+4. Oversikt over norske kilder i [gutenberg.org](gutenberg.md)
 
 
 [1]: https://www.idunn.no/journal/lor
