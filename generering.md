@@ -1,5 +1,7 @@
 # Modellbasert generering av tekst.
 
+Eksemplene i artikkelen der vi genererer fortsettelse av tekst bruker OpenAIs API. Python-koden som ble brukt er dokumentert nedenfor. Koden forutsetter en "egen_openai_api_key".
+
 ```
 import openai
 import math
