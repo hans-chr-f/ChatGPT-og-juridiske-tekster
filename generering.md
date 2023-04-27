@@ -37,7 +37,7 @@ print("Top 5 probable continuations with probabilities (sorted):\n", table)
 
 ```
 
-Hvis vi ber modellen om å gi fem sannsynlige forsettelser for "Hovedprinsippet i norsk avtalerett er" får vi:
+Hvis vi ber modellen om å gi fem sannsynlige forrsettelser for "Hovedprinsippet i norsk avtalerett er" får vi:
 
 | Fortsettelse          |   Sannsynlighet |
 |-----------------------|-----------------|
@@ -47,7 +47,7 @@ Hvis vi ber modellen om å gi fem sannsynlige forsettelser for "Hovedprinsippet 
 | at det skal legg      |         0.00467 |
 | at partene har frihet |         0.00352 |
 
-Så kan vi legge inn fortsettelsen "at kontrakter". Det ber vi modellen om å gi fem sannsynlige fortsetteler på "Hovedprinsippet i norsk avtalerett er at kontrakter".
+Så kan vi legge inn fortsettelsen "at kontrakter". Det ber vi modellen om å gi fem sannsynlige fortsettelser på "Hovedprinsippet i norsk avtalerett er at kontrakter".
 
 | Fortsettelse      |   Sannsynlighet |
 |-------------------|-----------------|
@@ -57,7 +57,7 @@ Så kan vi legge inn fortsettelsen "at kontrakter". Det ber vi modellen om å gi
 | skal tolkes d     |         0.00266 |
 | er bindene. Dette |         0.00125 |
 
-Tre av de videre alternativene fortsetter med "skal tolkes". La oss legge til dette og be modellen om å fortsettte følgende tekst "Hovedprinsippet i norsk avtalerett er at kontrakter skal tolkes"
+Tre av de videre alternativene fortsetter med "skal tolkes". La oss legge til dette og be modellen om å fortsette følgende tekst "Hovedprinsippet i norsk avtalerett er at kontrakter skal tolkes"
 
 | Fortsettelse         |   Sannsynlighet |
 |----------------------|-----------------|
@@ -85,7 +85,7 @@ Nå gir modellen følgende mulige fortsettelser:
 | at avtaler skal holdes. Det  |         0.00469 |
 
 
-Hvis vi ber om bare ett svar, men øker lengden til 1000 tokens får vi følgnde svar:
+Hvis vi ber om bare ett svar, men øker lengden til 1000 tokens får vi følgende svar:
 
 <code>
 ...at man skal holde det man har avtalt.
